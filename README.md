@@ -16,19 +16,33 @@ Data
 The dataset used in this project is the “Heart attack Analysis and Prediction dataset” available at Kaggle.
 
 The data has the following columns:
+
 1.age: Age of the patient
+
 2.sex: Sex of the patient
+
 3.cp: Chest pain type, 0 = Typical Angina, 1 = Atypical Angina, 2 = Non-anginal Pain, 3 = Asymptomatic
+
 4.trtbps: Resting blood pressure (in mm Hg)
+
 5.chol: Cholesterol in mg/dl fetched via BMI sensor
+
 6.fbs: (fasting blood sugar > 120 mg/dl), 1 = True, 0 = False
+
 7.restecg: Resting electrocardiographic results, 0 = Normal, 1 = ST-T wave normality, 2 = showing probable or definite left ventricular hypertrophy by Estes' criteria
+
 8.thalach: Maximum heart rate achieved
+
 9.oldpeak: Previous peak
+
 10.slp: Slope
+
 11.ca: Number of major vessels
+
 12.thall: Thallium Stress Test result, (0-3)
+
 13.exng: Exercise induced angina, 1 = Yes, 0 = No
+
 14.target: 0 = less chance of heart attack, 1 = more chance of heart attack
 
 Code
